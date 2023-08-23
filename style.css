@@ -135,3 +135,24 @@ span{
 .panel-all{
     margin-right: 50px;
 }
+
+/*Hero Sections  */
+
+.hero-section{
+    background-image: url("/asset/hero_image.jpg");
+    background-size: cover;
+    height: 600px;
+}
+
+.hero-section-msg{
+    height: 35px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    font-size: 0.85rem;
+}
+.hero-section-msg a{
+    color: #007185;
+}

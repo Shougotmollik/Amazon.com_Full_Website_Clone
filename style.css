@@ -210,3 +210,23 @@ span{
     align-items: center;
     font-size: 0.85rem;
 }
+.footer-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+ul p{
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 20px;
+}

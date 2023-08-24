@@ -48,7 +48,6 @@ Feel free to modify the HTML and CSS files to experiment with different design e
 <ul>
 <li>HTML: Structure and content of the web pages.</li>
 <li>CSS: Styling and layout of the project.</li>
-<li>CSS: Styling and layout of the project.</li>
 <li>Your web browser of choice.</li>
 </ul>
 
